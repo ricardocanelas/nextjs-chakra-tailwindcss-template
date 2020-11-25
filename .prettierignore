@@ -1,0 +1,6 @@
+node_modules
+**/.next/**
+**/_next/**
+**/dist/**
+**/style/base/_utilities.scss
+**/components/icons/index.js
